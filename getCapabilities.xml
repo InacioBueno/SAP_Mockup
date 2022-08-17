@@ -197,7 +197,7 @@
 				<Title>floresta_comercial</Title>
 				<Abstract>GH:floresta_comercial ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-49.683564148865706" miny="-24.877415354727425" maxx="-49.67499319935027" maxy="-24.87502384726053"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>imovel</Title>
 				<Abstract>GH:imovel ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-49.68671314725848" miny="-24.87912694939555" maxx="-49.67497523788818" maxy="-24.874748468307402"></LatLonBoundingBox>
